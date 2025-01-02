@@ -2,7 +2,7 @@
 
 FreeCodeCamp project for future reference.
 * Frontend - https://github.com/GavinLonDigital/movie-gold-v1
-* Bakend - https://github.com/fhsinchy/movieist
+* Backend - https://github.com/fhsinchy/movieist
 
 
 ## Java
